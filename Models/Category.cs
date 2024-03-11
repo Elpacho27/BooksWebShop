@@ -14,6 +14,4 @@ public class Category
 
     public int DisplayOrder { get; set; }
 
-
-
 }
